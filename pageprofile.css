@@ -1,0 +1,28 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+
+.personal {
+    display: flex;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+    justify-content: center;
+    text-decoration: underline;
+    font-size:  x-large;
+}
+
+.my-image {
+    display: flex;
+    justify-content: center;
+}
+
+.introduction {
+    padding-top: 100px;
+    padding-left: 80px;
+    font-size: x-large;
+}
